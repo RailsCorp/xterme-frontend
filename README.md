@@ -2,7 +2,7 @@
 
 > Nuxt.js project
 
-## Build Setup
+## 環境構築
 
 ``` bash
 # install dependencies
@@ -19,5 +19,7 @@ $ yarn start
 $ yarn run generate
 ```
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
+## テスト
+```
+	ava , jsdom 
+```
