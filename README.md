@@ -1,6 +1,7 @@
 # xtreme-frontend
 
-> Nuxt.js project
+> 使用フレームワーク : Nuxt.js
+> xtremeのフロントエンド用アプリケーション
 
 ## 環境構築
 
