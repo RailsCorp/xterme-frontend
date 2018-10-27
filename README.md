@@ -2,14 +2,25 @@
 
 > 使用フレームワーク : Nuxt.js
 > xtremeのフロントエンド用アプリケーション
+> パッケージ管理マネージャ : yarn
 
 ## 環境構築
 
+macであることを推奨！
+
 ``` bash
+
+yarnをインストールしていない場合！
+$ brew install yarn
+※ npm からのインストールはオススメされていない。
+
+ yarn がインストールされたか確認
+ $ yarn --version
+
 # install dependencies
 $ yarn install
 
-# serve with hot reload at localhost:3000
+# localhost:3000にアクセス
 $ yarn run dev   # rails sと同じ
 
 # build for production and launch server
