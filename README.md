@@ -14,6 +14,9 @@ yarnをインストールしていない場合！
 $ brew install yarn
 ※ npm からのインストールはオススメされていない。
 
+※ vue/cliが入っていな場合
+$ yarn global add @vue/cli
+
  yarn がインストールされたか確認
  $ yarn --version
 
@@ -33,7 +36,7 @@ $ yarn run generate
 
 ## テスト
 ```
-	ava , jsdom 
+	ava , jsdom
 ```
 https://ja.nuxtjs.org/guide/development-tools/
 
