@@ -15,6 +15,8 @@
   },
   "dependencies": {
     "ava": "^0.25.0",
+    "axios": "^0.18.0",
+    "bootstrap-vue": "^2.0.0-rc.11",
     "eslint-config-prettier": "^3.1.0",
     "eslint-plugin-prettier": "^3.0.0",
     "jsdom": "^12.2.0",
