@@ -24,3 +24,11 @@ $ yarn run generate
 ```
 	ava , jsdom 
 ```
+https://ja.nuxtjs.org/guide/development-tools/
+
+を参照！
+
+### ESlintとPrettier
+
+ESlint : コードを綺麗に保つ優れたツール
+Prettier : とても人気のあるコードフォーマッタ
